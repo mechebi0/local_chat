@@ -53,6 +53,8 @@ On the first machine:
 
 ## Notes
 - Port is hardcoded to 12345; change if needed (update in both files).
+
+https://github.com/mechebi0/local_chat.git
 - Handle firewalls: Allow UDP traffic on the port.
 - For Android: Use Termux with Python installed.
 - Submission: ZIP the files and submit via Canvas. Include names if partnered.
